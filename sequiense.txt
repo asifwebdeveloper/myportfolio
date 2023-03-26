@@ -10,3 +10,5 @@ npm i react-leaflet
 npm i react-loaders
 npm i react-router-dom
 npm i saas
+add .prettierrc in src
+npm install sass-loader sass webpack --save-dev
